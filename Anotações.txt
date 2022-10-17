@@ -1,3 +1,9 @@
-#Teste
+Comandos GIT BASH
 
-##Arquivo de teste
+mkdir (make directory) - abrir um novo diretório.
+ls (list) - listar as pastas
+cd - entrar na pasta x 
+git init - criar diretório
+ls -a - abrir "pasta oculta" do diretório
+cd .. - voltar um nível
+git clone + link do repositório no github - clonar o repositório
