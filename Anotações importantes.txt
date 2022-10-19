@@ -1,0 +1,21 @@
+Link sobre markdown: https://www.markdownguide.org/basic-syntax/
+
+
+Principais comandos do GitBash até agora:
+
+- mkdir (make directory) - abrir um novo diretório.
+- ls (list) - listar as pastas
+- cd - entrar na pasta x 
+- git init - criar diretório
+- ls -a - abrir "pasta oculta" do diretório
+- cd .. - voltar um nível
+- git clone + link do repositório no github - clonar o repositório para gerar pasta local
+- git status - mostra a situação
+- git rm - remover 
+- git push - "empurra" para o remoto
+- git pull - "puxa" para o local
+
+Adicionar um arquivo novo local para o remoto:
+1. git add . 
+2. git commit -m "anotação para referência"
+3. git push origin main 
